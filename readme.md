@@ -17,7 +17,7 @@
 <br>
 
 <h4 align="center">📋 Documentación</h4>
-<p align="center">La documentación del proyecto (como configurar y captura de las utilidades) se encuentra disponible <a href="https://github.com/imkuroneko/NatsukiFivemHelper/wiki">aquí 🦄</a></p>
+<p align="center">La documentación del proyecto (como configurar y captura de las utilidades) se encuentra disponible <a href="https://imkuroneko.gitbook.io/natsukifivemhelper/">aquí 🦄</a></p>
 <br>
 
 <h4 align="center">📄 Licencia del Proyecto</h4>
