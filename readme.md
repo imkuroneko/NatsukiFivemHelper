@@ -3,7 +3,7 @@
 <code>NatsukiFiveMHelper</code> es un bot utilitario desarrollado durante los últimos meses para cubrir ciertas necesidades administrativas requeridas para servidores de FiveM de forma fácil y rápida a través de Discord; En las últimas semanas le he implementado nuevas utilidades para ayudar en la gestión de los usuarios.
 </p>
 
-<br><br>
+<br>
 
 <h4 align="center">🧰 Dependencias Utilizadas</h4>
 
@@ -14,11 +14,11 @@
 • cron
 • entre otros mas
 ```
-<br><br>
+<br>
 
 <h4 align="center">📋 Documentación</h4>
 <p align="center">La documentación del proyecto (como configurar y captura de las utilidades) se encuentra disponible <a href="https://github.com/imkuroneko/NatsukiFivemHelper/wiki">aquí 🦄</a></p>
-<br><br>
+<br>
 
 <h4 align="center">📄 Licencia del Proyecto</h4>
 
