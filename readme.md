@@ -1,26 +1,27 @@
-## 🎫 Nombre del Proyecto
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sodales diam nulla, nec porttitor elit convallis a. Suspendisse vitae nisl mattis, lacinia magna id, consequat lectus. Mauris tempus mi vitae lobortis venenatis. Fusce sed dapibus dui. Morbi vel nibh nec ante scelerisque tincidunt vel vel sapien. Integer fermentum interdum risus ut convallis. Phasellus sem urna, ultricies non dignissim nec, rutrum eu tortor. Aenean ac lectus ut ligula tristique tincidunt.
+<h2 align="center">🌸 NatsukiFivemHelper</h2>
+<p align="center">
+<code>NatsukiFiveMHelper</code> es un bot utilitario desarrollado durante los últimos meses para cubrir ciertas necesidades administrativas requeridas para servidores de FiveM de forma fácil y rápida a través de Discord; En las últimas semanas le he implementado nuevas utilidades para ayudar en la gestión de los usuarios.
+</p>
+
 <br><br>
 
-### 🧰 Dependencias Utilizadas
-```
-• item 1
-• item 2
-• item 3
-• item 4
-```
+<h4 align="center">🧰 Dependencias Utilizadas</h4>
 
-### 📋 Documentaciones
 ```
-• Configuraciones
-• Como instalar
-• Observaciones a tener en cuenta
+• discordJs v14 + @discordjs/rest + @discordjs/voice
+• axios
+• better-sqlite3
+• cron
+• entre otros mas
 ```
-
-Para leer todo haz [clic aquí 🦄](https://github.com/imkuroneko/TheiBot/wiki)
 <br><br>
 
-### 📄 Licencia del Proyecto
+<h4 align="center">📋 Documentación</h4>
+<p align="center">La documentación del proyecto (como configurar y captura de las utilidades) se encuentra disponible <a href="https://github.com/imkuroneko/NatsukiFivemHelper/wiki">aquí 🦄</a></p>
+<br><br>
+
+<h4 align="center">📄 Licencia del Proyecto</h4>
+
 ```
 Copyright (C) 2022 KuroNeko
 
@@ -37,18 +38,15 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program. If not, see https://www.gnu.org/licenses/
 ```
-<br>
 
-### 📄 Licencia de dependencias externas
-Se respetan los derechos y las licencias de todas las dependencias que se llegasen a utilizar en este proyecto. (Remitirse al sitio de cada proyecto para conocer mas sobre ellos)
-
+<br><br>
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/github/repo-size/imkuroneko/template-repos?style=flat"/> &nbsp;
-  <img src="https://img.shields.io/github/languages/top/imkuroneko/template-repos?style=flat"/> &nbsp;
-  <img src="https://img.shields.io/github/last-commit/imkuroneko/template-repos?color=pink&style=flat"/>
+  <img src="https://img.shields.io/github/repo-size/imkuroneko/NatsukiFivemHelper?style=flat"/> &nbsp;
+  <img src="https://img.shields.io/github/languages/top/imkuroneko/NatsukiFivemHelper?style=flat"/> &nbsp;
+  <img src="https://img.shields.io/github/last-commit/imkuroneko/NatsukiFivemHelper?color=pink&style=flat"/>
 </p>
 
 <p align="center">
